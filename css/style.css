@@ -1,0 +1,7 @@
+.pop-on-hover {
+  transition: transform 128ms;
+}
+
+.pop-on-hover:hover {
+  transform: scale(105%);
+}
